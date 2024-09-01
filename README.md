@@ -1,10 +1,9 @@
 # Safe Browsing Checker
-
 ![Safe Browsing Checker Workflow](flowchart.png)
 
 ## Overview
 
-The Safe Browsing Checker is a web application designed to check URLs against Google’s Safe Browsing API to identify potential security threats such as malware and social engineering attacks. It provides a user-friendly interface for entering a URL, validating its format, and displaying results based on the threat detection.
+The Safe Browsing Checker is a web application designed to check URLs against Google’s Safe Browsing API to identify potential security threats such as malware and social engineering attacks. It provides a user-friendly interface for entering a URL, validating its format, and displaying results based on threat detection.
 
 ## Features
 
